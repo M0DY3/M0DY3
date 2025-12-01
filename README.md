@@ -2,8 +2,6 @@
 <h3 align="center">Information Technology & Cybersecurity Specialist</h3>
 
 <p align="center">
-✉️ mo h9238mmoohh@gmail.com 
-<br>
 <a href="https://github.com/M0DY3">GitHub</a> • 
 <a href="https://linkedin.com/in/mohammed-allehyani">LinkedIn</a>
 </p>
@@ -11,29 +9,11 @@
 ---
 
 ## 🧾 Summary
-Information Technology graduate specializing in **networking, system administration, cybersecurity, and IT support**. Experienced in configuring and maintaining **Linux, Windows, and macOS** systems, with strong programming skills in **Python, Java, C#, PHP, and SQL**.  
-Certified Penetration Tester (**eJPT**, **eCPPT**) with hands-on experience in **network troubleshooting, virtualization, security assessments, and web security testing**. Passionate about **system reliability, cyber defense, and secure IT solutions**.
+IT & Cybersecurity specialist with strong experience in **networking, system administration, IT support, and penetration testing**. Skilled in managing **Linux, Windows, and macOS** systems with proficiency in **Python, Java, C#, PHP, and SQL**. Certified in ethical hacking and dedicated to improving **system security, reliability, and performance**.
 
 ---
 
-## 💼 Experience
-### **IT Intern — STC (Saudi Telecom Company)**  
-📅 06/2024 – 07/2024 | 📍 Jeddah  
-- Assisted with **network configuration**, device setup, routers, switches, and firewalls.  
-- Supported **system monitoring, IT maintenance, and helpdesk operations**.  
-- Observed **fiber installation**, network testing, and performance validation.  
-**Key Tools:** Cisco • Wireshark • Nmap • VMware • Windows Server • Linux (Ubuntu/Kali)
-
----
-
-## 🎓 Education
-**B.Sc. Computer Science – Information Technology**  
-Islamic University of Madinah  
-📅 2020 – 2025
-
----
-
-## 🛠 Technical Skills
+## 🛠 Skills
 
 ### **Operating Systems**
 <p>
@@ -44,15 +24,15 @@ Islamic University of Madinah
 
 ### **Cybersecurity**
 Penetration Testing • Vulnerability Assessment • Network Traffic Analysis  
-Wireshark • Burp Suite • Metasploit • Nmap • VMware • OWASP Top 10 • SIEM Basics
+Wireshark • Burp Suite • Metasploit • Nmap • OWASP Top 10 • SIEM Basics
 
-### **System Administration & IT Support**
-Troubleshooting • User Management • Virtualization • Active Directory  
-Server Configuration • Performance Monitoring • System Updates
+### **System Administration**
+Active Directory • Virtualization • Server Configuration  
+User Management • Troubleshooting • Performance Monitoring
 
 ### **Networking**
-Routers • Switches • Firewalls • TCP/IP • DNS • DHCP • VLANs • Wi-Fi Optimization  
-Network Monitoring & Diagnostics
+Routers • Switches • Firewalls • DNS • DHCP • VLANs  
+TCP/IP • Network Monitoring
 
 ### **Programming**
 <p>
@@ -65,36 +45,28 @@ Network Monitoring & Diagnostics
 
 ---
 
-## 🏆 Awards & Recognition
-**National Cybersecurity & Coding Competition (NCCC 2024)**  
-- Achieved **6th Place** with Islamic University team  
-- Competed in national **CTF cybersecurity challenges**
+## 🧩 Core Competencies
+**Cybersecurity • Networking • System Administration • IT Support  
+Penetration Testing • Linux • Windows Server • VMware • Active Directory**
 
 ---
 
-## 📘 Projects
-### **Online Desert Camping Rental Platform (Graduation Project)**
-- Full-stack web application using **PHP, MySQL, HTML, CSS, JavaScript**  
-- Features: **real-time booking**, user reviews, loyalty system  
-- Focused on **web security** and **database optimization**
+## 📘 Notable Projects
+- **Online Desert Camping Platform** — Full-stack web app with real-time booking and secure backend.  
+- **Network Infrastructure Setup (Packet Tracer)** — Multi-department network design with routing & switching.  
+- **Security Labs & CTF Challenges** — Hands-on penetration testing and web security labs.
 
 ---
 
 ## 🎖 Certifications
-- **Security+ SY0-601 Prep** — Netriders Academy, 2025  
-- **eCPPT** — eLearnSecurity, 2022  
-- **eJPT** — eLearnSecurity, 2021  
-
----
-
-## 🧩 Core Competencies
-**Cybersecurity • Networking • Penetration Testing • System Administration • IT Support  
-Linux • Windows Server • VMware • Active Directory • Incident Response**
+- eJPT  
+- eCPPT  
+- Security+ (training)
 
 ---
 
 ## 🌐 Languages
-- **Arabic:** Native  
-- **English:** Intermediate
+- **Arabic** — Native  
+- **English** — Intermediate
 
 ---
