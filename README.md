@@ -2,7 +2,7 @@
 <h3 align="center">Information Technology & Cybersecurity Specialist</h3>
 
 <p align="center">
-📍 Jeddah, Saudi Arabia • ✉️ mo h9238mmoohh@gmail.com • 📞 +966 55 788 3306  
+✉️ mo h9238mmoohh@gmail.com 
 <br>
 <a href="https://github.com/M0DY3">GitHub</a> • 
 <a href="https://linkedin.com/in/mohammed-allehyani">LinkedIn</a>
